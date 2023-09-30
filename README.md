@@ -71,8 +71,5 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26"/>
 </p>
 
-<h3 align="left">States:</h3>
-
-![JandaghianAmin GitHub stats](https://github-readme-stats.vercel.app/api?username=JandaghianAmin&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
