@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working at **IRISA (International System Engineering and Automations)**
 
-- 🌱 I’m currently learning **IaS, DevOps, Kubernetes**
+- 🌱 I’m currently learning **Docker, Django Advanced**
 
-- 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
+- 👯 I’m looking to collaborate on **Python and Django**
 
 - 📝 I regularly write articles on [https://Jandaghian.ir](https://Jandaghian.ir)
 
-- 💬 Ask me about **Python,IaS,DevOps**
+- 💬 Ask me about **Python,Django,DRF,SQL,ORM**
 
 - 📫 How to reach me **Jandaghian.amin@gmail.com**
 
